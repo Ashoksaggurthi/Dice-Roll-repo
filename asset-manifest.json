@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dice-Roll-repo/static/css/main.4b7fdec4.css",
+    "main.js": "/Dice-Roll-repo/static/js/main.7cbd0774.js",
+    "static/js/787.8b3a03d8.chunk.js": "/Dice-Roll-repo/static/js/787.8b3a03d8.chunk.js",
+    "index.html": "/Dice-Roll-repo/index.html",
+    "main.4b7fdec4.css.map": "/Dice-Roll-repo/static/css/main.4b7fdec4.css.map",
+    "main.7cbd0774.js.map": "/Dice-Roll-repo/static/js/main.7cbd0774.js.map",
+    "787.8b3a03d8.chunk.js.map": "/Dice-Roll-repo/static/js/787.8b3a03d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7fdec4.css",
+    "static/js/main.7cbd0774.js"
+  ]
+}
